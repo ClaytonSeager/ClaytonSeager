@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm the co-founder of [Full Stack Automation (FSA)](https://www.linkedin.com/company/full-stack-automation/), a software development company focused on creating efficient, accessible automation solutions. Our mission is to provide affordable automation tools to businesses, currently non-profits, who struggle with the high costs of industry-leading solutions.
+I'm the co-founder of [Full Stack Automation (FSA)](https://fsawebsite-b0gpa9bpe2bpbshh.eastus2-01.azurewebsites.net/), a software development company focused on creating efficient, accessible automation solutions. Our mission is to provide affordable automation tools to businesses, currently non-profits, who struggle with the high costs of industry-leading solutions.
 
 ### 💼 Professional Journey
 - 🏢 I have developed full stack tools for major enterprises including **Eli Lilly & Co** and **Kelloggs**
