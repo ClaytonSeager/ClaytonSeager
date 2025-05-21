@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Automation_Solutions-563177?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-USA-b32134?style=for-the-badge" />
-  <a href="https://www.linkedin.com/company/full-stack-automation/">
+  <a href="https://fsawebsite-b0gpa9bpe2bpbshh.eastus2-01.azurewebsites.net/">
     <img src="https://img.shields.io/badge/FSA-Company_Page-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
